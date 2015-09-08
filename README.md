@@ -1,6 +1,8 @@
 # GFM_STUDY
 Github ReadMe.md 编写学习
 
+# 1. 关于标题
+
 #这是一级标题
 编写格式
 ```
